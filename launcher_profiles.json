@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "locale": "en-us",
+    "showMenu": true,
+    "enableAdvanced": true
+  },
+  "launcherVersion": {
+    "name": "2.1.1351",
+    "format": 21,
+    "profilesFormat": 2
+  },
+  "clientToken": "0c5b9f84ca3ee876106ae26861f8ee48",
+  "profiles": {
+    "263127d71b7e554543ae6f52f6782f8e": {
+      "type": "latest-release",
+      "lastUsed": "2018-09-20T15:22:55.116Z"
+    },
+    "74b52840556074193270857d03d653ee": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "Forge": {
+      "name": "Forge",
+      "type": "custom",
+      "created": "2018-09-17T18:13:16.376Z",
+      "lastUsed": "2018-09-22T09:22:12.047Z",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10"
+    }
+  },
+  "analyticsFailcount": 0,
+  "selectedUser": {
+    "account": "683b521c56524afd9fcfbccc05173ade",
+    "profile": "ac3bf059496f4fe48e3f9dd773b7f474"
+  },
+  "analyticsToken": "d3f2556bf1d5835e92724541986c6b0c",
+  "authenticationDatabase": {
+    "683b521c56524afd9fcfbccc05173ade": {
+      "accessToken": "62fa9b00b9104340991f13b56b0cd624",
+      "username": "AdamTBC10@mail.ru",
+      "profiles": {
+        "ac3bf059496f4fe48e3f9dd773b7f474": {
+          "displayName": "Adam1TBC"
+        }
+      }
+    }
+  }
+}
