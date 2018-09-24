@@ -2,6 +2,8 @@
 
 Для того, чтобы вы могли поиграть на этой сборке, вам потребуется её скачать, нажав на кнопочку справа
 
+https://drive.google.com/open?id=1qDuebQCdQCgVQFIWD4fKMVhz1aQqnd6Y
+
 https://imgur.com/a/BauD71n
 
 Лаунчер вы можете использовать любой, но я посоветую [TLauncher](https://tlauncher.org/en/).
