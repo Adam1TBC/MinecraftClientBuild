@@ -2,7 +2,8 @@
 
 Для того, чтобы вы могли поиграть на этой сборке, вам потребуется её скачать, нажав на кнопочку справа
 
-https://drive.google.com/open?id=1qDuebQCdQCgVQFIWD4fKMVhz1aQqnd6Y
+https://drive.google.com/file/d/1KgoPYsZIJNQyT3SHgJiP2XSoLvkqJLF_/view?usp=sharing(edited)
+
 
 https://imgur.com/a/BauD71n
 
